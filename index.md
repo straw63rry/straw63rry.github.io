@@ -1,13 +1,12 @@
-## ##Throb Site
-![hello welcome to throb site](https://imgur.com/a/MtrMKsG)
-
+## Throb Site
+# hello welcome to throb site :p
 
 ## links <3
 [Spotify](https://open.spotify.com/artist/0ZtlFgMn5jOPhUpHfXC0Ns)
 
 [apple music](https://music.apple.com/ca/artist/throb/1482863966)
 
-[soundcloud ;p](https://soundcloud.com/onetwothreethrob)
+[soundcloud](https://soundcloud.com/onetwothreethrob)
 
 [merch](https://throb-co.myspreadshop.ca/)
 
@@ -20,3 +19,4 @@
 [twitter](https://twitter.com/123throb)
 
 [SoCCeRpLeX™](https://open.spotify.com/artist/3U0FGmeGTI5CRDmvJeZ1qu)
+![bennie head sticker 7](https://user-images.githubusercontent.com/94776730/142754039-4a9dd593-0890-4fa0-9634-6e74da775582.png)
