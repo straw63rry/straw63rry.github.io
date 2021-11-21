@@ -2,7 +2,6 @@ entries:
   - title: WELCOME TO THROB SITE
   - title: links <3
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
       - title: Spotify
         url: https://open.spotify.com/artist/0ZtlFgMn5jOPhUpHfXC0Ns
       - title: apple music
