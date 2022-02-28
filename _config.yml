@@ -1,6 +1,6 @@
 title: Throb Site
 
-theme: riggraz/no-style-please
+theme: jekyll-theme-hacker
 
 theme_config:
   appearance: "auto" 
