@@ -1,6 +1,6 @@
 title: Throb Site
 
-theme: hacker
+theme: jekyll-theme-hacker
 
 theme_config:
   appearance: "auto" 
